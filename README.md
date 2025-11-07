@@ -1,7 +1,7 @@
 <p align="center">
   <img src="banner.png" alt="Ashish Kumar Banner" width="800"/>
 </p>
-<h3 align="center">C++ • Linux • Win32</h3>
+<h3 align="center">C++11/14/17 • Linux • Win32</h3>
 
 ---
 
