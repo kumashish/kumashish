@@ -2,7 +2,7 @@
   <img src="banner.png" alt="Ashish Kumar Banner" width="50%"/>
 </p>
 
-<h3 align="center">C++11/14/17 • Linux • Win32 • Python • AWS • AI/ML • Devops • Java</h3>
+<h3 align="center">C++11/14/17 • Linux • Program Managemnt • Win32 • Python • AWS • AI/ML • Devops • Java</h3>
 
 ---
 
