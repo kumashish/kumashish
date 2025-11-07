@@ -2,13 +2,13 @@
   <img src="banner.png" alt="Ashish Kumar Banner" width="50%"/>
 </p>
 
-<h3 align="center">C++11/14/17 • Linux • Win32 • Python • AWS • Java</h3>
+<h3 align="center">C++11/14/17 • Linux • Win32 • Python • AWS • AI/ML • Devops • Java</h3>
 
 ---
 
 ### 🛠️ Tech Stack & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,linux,c,python,aws,java,windows,devops" />
+  <img src="https://skillicons.dev/icons?i=cpp,linux,c,python,aws,java,ai/ml,windows,devops" />
 </p>
 
 ---
