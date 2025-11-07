@@ -1,28 +1,32 @@
 <p align="center">
-  <img src="banner.png" alt="Ashish Kumar Banner" width="800"/>
+  <img src="banner.png" alt="Ashish Kumar Banner" width="100%"/>
 </p>
-<h3 align="center">C++11/14/17 • Linux • Win32</h3>
+
+<h3 align="center">C++11/14/17 • Linux • Win32 • Python • AWS • Java</h3>
 
 ---
 
 ### 🛠️ Tech Stack & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,linux,c,python,aws,java,devops" />
+  <img src="https://skillicons.dev/icons?i=cpp,linux,c,python,aws,java,windows,devops" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kumashish&show_icons=true&theme=tokyonight" alt="Ashish's GitHub stats" />
+  <!-- Total Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=kumashish&show_icons=true&theme=tokyonight&hide_border=true" alt="Ashish's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumashish&theme=tokyonight" alt="Ashish's GitHub streak" />
+  <!-- Fixed Streak Stats (Demolab host - replaces old Heroku link) -->
+  <img src="https://streak-stats.demolab.com?user=kumashish&theme=tokyonight&hide_border=true" alt="Ashish's GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumashish&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumashish&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
