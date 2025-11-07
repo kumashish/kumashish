@@ -1,8 +1,6 @@
 <p align="center">
   <img src="banner.png" alt="Ashish Kumar Banner" width="800"/>
 </p>
-
-<h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
 <h3 align="center">Systems Engineer • C++ • Linux • Win32</h3>
 
 ---
