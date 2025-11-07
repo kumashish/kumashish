@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Ashish Kumar Banner" width="100%"/>
+  <img src="banner.png" alt="Ashish Kumar Banner" width="50%"/>
 </p>
 
 <h3 align="center">C++11/14/17 • Linux • Win32 • Python • AWS • Java</h3>
