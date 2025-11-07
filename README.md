@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
 <h3 align="center">Systems Engineer • C++ • Linux</h3>
 
