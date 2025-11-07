@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
-<h3 align="center">Systems Engineer • C++ • Linux</h3>
+<h3 align="center">Systems Engineer • C++ • Linux • Win32</h3>
 
 ---
 
 ### 🛠️ Tech Stack & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,linux,c,python,aws" />
+  <img src="https://skillicons.dev/icons?i=cpp,linux,c,python,aws,java,devops" />
 </p>
 
 ---
@@ -26,7 +26,7 @@
 ---
 
 ### 👨‍💻 About Me  
-Hey there! I'm Ashish — a systems engineer who loves crafting **high-performance C++ systems** on Linux.  
+Hey there! I'm Ashish — a systems engineer who loves crafting **high-performance C++ systems** on Linux and Win32 Platform.  
 I’m passionate about building **large-scale backend architectures**, optimizing performance, and diving deep into **real-time systems and infrastructure**.  
 
 I enjoy working on **low-latency design, distributed systems**, and exploring the **intersection of C++ and modern cloud platforms like AWS**.  
