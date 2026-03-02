@@ -57,9 +57,8 @@ Always eager to learn, collaborate, and share — whether it’s solving tough b
 ---
 
 ### ✨ Fun Zone  
-💡 “Talk is cheap, show me the code.” — Linus Torvalds  
 ☕ Coffee + C++ = happiness  
-🐧 Proud Linux user  
+🐧 Proud Linux & Windows user  
 
 ---
 
